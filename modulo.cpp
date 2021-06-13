@@ -14,6 +14,7 @@ typedef vector<int>     vi;
 typedef pair<int, int>  pii;
 
 void solve() {
+    cout<<"SUBSTRING HAVING MAXIMUM VOVEL";
   string s;
   cin>>s;
   int k;
